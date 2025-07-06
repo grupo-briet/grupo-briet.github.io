@@ -21,7 +21,9 @@ title: Integrantes
 | **Elizabeth Maria Freire de Jesus** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0003-4275-7645) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/8103850325598629) | Pesquisadora | UFRJ/NCE |
 | **Emanuelle Torino** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-3791-9884) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/5042296869081637) | Pesquisadora | UTFPR |
 | **Gabriela Santos Paiva da Silva** [:ai-orcid:{ .orcid }](https://orcid.org/0009-0000-6984-7582?lang=pt) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/3966155067790697) | Mestrado | UFRJ - PPGCI/IBICT |
+| **Kelly Maria Ayala de Carvalho** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0001-7502-120X) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/4756129390559988) | Mestre | UFRJ - PPGCI/IBICT |
 | **Luciana Ferreira Lau** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-9233-4715) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/4870381654584528) | Colaboração | IBGE |
+| **Tania Chalhub** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0001-71603886) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/6737749200665570) | Professora PPGCI UFPA | INES |
 | **Valéria da Fonseca e Silva Pastura** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-2168-0573) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/2350566322484394) | Mestrado | IEN/CNEN |
 
 ## ESTUDANTES
