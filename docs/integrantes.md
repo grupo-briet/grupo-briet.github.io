@@ -13,7 +13,7 @@ title: Integrantes
 ## PESQUISADORES
 | **Nome** | **Atuação** | **Instituição** |
 |---|---|---|
-|**Adriane Carvalho Carrera**[:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-8272-6694) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/2372837985642981)  Mestrado | UFRJ - PPGCI/IBICT
+|**Adriane Carvalho Carrera**[:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-8272-6694) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/2372837985642981)|  Mestrado | UFRJ - PPGCI/IBICT
 |**Alegria Celia Benchimol** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0003-0920-992X) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/9550647395377220)| Doutorado | UFRJ - PPGCI/IBICT
 | **Alexandre Ribas Semeler** [:ai-orcid:{ .orcid }](https://orcid.org/0000-0002-8036-4271) [:ai-lattes:{ .lattes }](http://lattes.cnpq.br/1564154234554393) [:fontawesome-brands-github-alt:](https://github.com/AlexSemeler) | Pós-doutorado | Instituto de Geociências / UFRGS  |
 |**Aluf Alba Vilar Elias** [:ai-lattes:{.lattes}](http://lattes.cnpq.br/0221249833068387) | Doutorado | Unb 
