@@ -8,24 +8,29 @@ title: Eventos
 
 ### V Seminário Internacional do Grupo BRIET
 
-01 de outubro de 2026
-Palácio Universitário da UFRJ no Campus da Praia Vermelha
-Av. Pasteur, 250 - Sala 246
+> 01 de outubro de 2026
+> Palácio Universitário da UFRJ no Campus da Praia Vermelha
+> Av. Pasteur, 250 - Sala 246
 
-Inscreva-se já, garanta sua vaga!
+[Inscreva-se já, garanta sua vaga!](https://www.even3.com.br/sembriet2026-779087/)
 
 O evento propõe uma reflexão crítica e inovadora sobre o papel das tecnologias
-emergentes na estruturação da informação. A Inteligência Artificial tem transformado
+emergentes na estruturação da informação. 
+
+A Inteligência Artificial tem transformado
 os fluxos de conhecimento, exigindo novas abordagens para a representação
 semântica e a organização de objetos digitais.
+
 Para debater esses desafios, a programação está estruturada em dois eixos
 fundamentais:
-Organização do Conhecimento e Sistemas Computacionais Éticos
+
+*Organização do Conhecimento e Sistemas Computacionais Éticos*
+
 Investigaremos como os Sistemas de Organização do Conhecimento podem ser
 integrados a sistemas computacionais que priorizem a ética e a transparência em
 ambientes de IA.
-Conferência de Abertura: Pensando rápido e devagar na construção de sistemas
-computacionais éticos
+
+*Conferência de Abertura: Pensando rápido e devagar na construção de sistemascomputacionais éticos*
 Prof. Giancarlo Guizzardi - Universidade de Twente
 Apresentação de pesquisas em andamento
 Ciência Aberta e Gestão de Dados de Pesquisa
