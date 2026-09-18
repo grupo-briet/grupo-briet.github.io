@@ -6,6 +6,46 @@ title: Eventos
 
 ## Organizados pelo Grupo BRIET
 
+### V Seminário Internacional do Grupo BRIET
+
+01 de outubro de 2026
+Palácio Universitário da UFRJ no Campus da Praia Vermelha
+Av. Pasteur, 250 - Sala 246
+
+Inscreva-se já, garanta sua vaga!
+
+O evento propõe uma reflexão crítica e inovadora sobre o papel das tecnologias
+emergentes na estruturação da informação. A Inteligência Artificial tem transformado
+os fluxos de conhecimento, exigindo novas abordagens para a representação
+semântica e a organização de objetos digitais.
+Para debater esses desafios, a programação está estruturada em dois eixos
+fundamentais:
+Organização do Conhecimento e Sistemas Computacionais Éticos
+Investigaremos como os Sistemas de Organização do Conhecimento podem ser
+integrados a sistemas computacionais que priorizem a ética e a transparência em
+ambientes de IA.
+Conferência de Abertura: Pensando rápido e devagar na construção de sistemas
+computacionais éticos
+Prof. Giancarlo Guizzardi - Universidade de Twente
+Apresentação de pesquisas em andamento
+Ciência Aberta e Gestão de Dados de Pesquisa
+Abordaremos os impactos da IA na Ciência Aberta, discutindo a curadoria, a
+interoperabilidade e o reuso de dados de pesquisa, elementos essenciais para a
+sustentabilidade da produção científica.
+Conferência: Metodologia de desenvolvimento do modelo de metadados para o
+repositório de dados de pesquisa sobre argilominerais, utilizando o Invenio RDM.
+Alexandre Semeler - UFRGS
+Apresentação de pesquisas em andamento
+Participe e venha refletir conosco sobre os novos paradigmas da Ciência da
+Informação!
+O evento contará com palestras de especialistas, mesas-redondas e a apresentação
+de pesquisas concluídas e em andamento pelo Grupo BRIET, no âmbito do PPGCI
+do IBICT e parcerias institucionais. Aos participantes presenciais será concedido um certificado de 3h para cada
+período, totalizando 6h de carga-horária.
+Para pesquisadores, estudantes e profissionais da Ciência da Informação e
+áreas correlatas que buscam atualização e fortalecimento de redes de
+colaboração.
+
 ### III Seminário Internacional do Grupo BRIET
 
 ![PHOTO-2024-05-14-15-58-25](https://github.com/grupo-briet/grupo-briet.github.io/assets/25485329/73b6c6f3-6b5e-407d-be15-745389499cfd){ width=500 }
